@@ -30,11 +30,15 @@ This section generally prepares our data set for modelling. For example the visu
 ![image](https://github.com/evamwende/Churn-in-Telecom/assets/82519367/36c6a2a7-fce1-4be3-bf20-eb851c3fcd00)
 
 
-The [notebbok]()
+The [notebbok](https://github.com/evamwende/Churn-in-Telecom/blob/main/Workbook.ipynb) offers a detailed code solving the classification imbalance through SMOTE to acheive this:
+
+
+![image](https://github.com/evamwende/Churn-in-Telecom/assets/82519367/d02d4f23-0f28-4cf5-82e0-ae55f82ef16a)
+
 
 ## Modelling
-
+Three models were used in this project i.e Logistic Regression,  K-Nearest Neighbors (KNN) and Decision tree model just to try and determine the best suited for predicting our target variable. Tuning of hyperparameters for both the KNN model and Decesion Tree shed sime light on enhanced the effectiveness of these models
 
 ## Conclusion and Recommendation
-
+In conclusion, our model evaluations indicated that the tuned Decision Tree model was the optimal choice for accurately predicting customer churn. It offered a well-rounded performance with high accuracy, precision, recall, and F1-score, striking a practical balance between capturing churned customers and maintaining good precision. This made it a reliable and robust option for improving customer churn predictions, ensuring that businesses could effectively identify and address potential churn cases.
 
