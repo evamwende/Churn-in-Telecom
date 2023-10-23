@@ -31,6 +31,8 @@ The [Workbook](https://github.com/evamwende/Churn-in-Telecom/blob/main/Workbook.
 
 ![image](https://github.com/evamwende/Churn-in-Telecom/assets/82519367/d01fdbf3-3aef-43b4-84a1-a6244484fa59)
 
+Apart from this, this section also includes checking for missing data, duplicates, feature scaling, dealing with categorical data through Label encoding and One hot encoder
+
 ## Modelling
 Three models were used in this project i.e Logistic Regression,  K-Nearest Neighbors (KNN) and Decision tree model just to try and determine the best suited for predicting our target variable. Tuning of hyperparameters for both the KNN model and Decesion Tree shed sime light on enhanced the effectiveness of these models
 
