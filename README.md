@@ -18,23 +18,18 @@ These figures are a representation of some univariate, bivariate and multivariat
 ![image](https://github.com/evamwende/Churn-in-Telecom/assets/82519367/629a2a2b-e059-4765-a846-e12132904757)
 
 
-![image](https://github.com/evamwende/Churn-in-Telecom/assets/82519367/2db75f5f-4c93-4f38-a93c-3d7fbb322c17)
+![image](https://github.com/evamwende/Churn-in-Telecom/assets/82519367/ba3215d3-f1cd-48f6-bbe2-ff5c4da5e4ea)
 
-
-![image](https://github.com/evamwende/Churn-in-Telecom/assets/82519367/64cdeb12-d6ba-4c57-bf26-5a112911fe4f)
+![image](https://github.com/evamwende/Churn-in-Telecom/assets/82519367/69bd545b-839f-4f18-9a90-e2ec46f3738f)
 
 ## Pre-processing
 This section generally prepares our data set for modelling. For example the visualization of our target column revealed an classification imbalance in our data set.
 
-
-![image](https://github.com/evamwende/Churn-in-Telecom/assets/82519367/36c6a2a7-fce1-4be3-bf20-eb851c3fcd00)
-
+![image](https://github.com/evamwende/Churn-in-Telecom/assets/82519367/efa37ebc-250a-4c44-8cfa-81c696552ab3)
 
 The [Workbook](https://github.com/evamwende/Churn-in-Telecom/blob/main/Workbook.ipynb) offers a detailed code solving the classification imbalance through SMOTE to acheive this:
 
-
-![image](https://github.com/evamwende/Churn-in-Telecom/assets/82519367/d02d4f23-0f28-4cf5-82e0-ae55f82ef16a)
-
+![image](https://github.com/evamwende/Churn-in-Telecom/assets/82519367/d01fdbf3-3aef-43b4-84a1-a6244484fa59)
 
 ## Modelling
 Three models were used in this project i.e Logistic Regression,  K-Nearest Neighbors (KNN) and Decision tree model just to try and determine the best suited for predicting our target variable. Tuning of hyperparameters for both the KNN model and Decesion Tree shed sime light on enhanced the effectiveness of these models
