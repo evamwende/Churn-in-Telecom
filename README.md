@@ -30,7 +30,7 @@ This section generally prepares our data set for modelling. For example the visu
 ![image](https://github.com/evamwende/Churn-in-Telecom/assets/82519367/36c6a2a7-fce1-4be3-bf20-eb851c3fcd00)
 
 
-The [notebbok](https://github.com/evamwende/Churn-in-Telecom/blob/main/Workbook.ipynb) offers a detailed code solving the classification imbalance through SMOTE to acheive this:
+The [Workbook](https://github.com/evamwende/Churn-in-Telecom/blob/main/Workbook.ipynb) offers a detailed code solving the classification imbalance through SMOTE to acheive this:
 
 
 ![image](https://github.com/evamwende/Churn-in-Telecom/assets/82519367/d02d4f23-0f28-4cf5-82e0-ae55f82ef16a)
