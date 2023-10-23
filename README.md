@@ -15,7 +15,7 @@ This sections seeks to understand the characteristics of the data variables as s
 These figures are a representation of some univariate, bivariate and multivariate analysis on the data set.
 
 
-![image](https://github.com/evamwende/Churn-in-Telecom/assets/82519367/559385f0-87f1-4042-9ba6-b189c82cf1c2)
+![image](https://github.com/evamwende/Churn-in-Telecom/assets/82519367/629a2a2b-e059-4765-a846-e12132904757)
 
 
 ![image](https://github.com/evamwende/Churn-in-Telecom/assets/82519367/2db75f5f-4c93-4f38-a93c-3d7fbb322c17)
